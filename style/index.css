@@ -1,0 +1,13 @@
+html {
+  font-family: "DM Mono", monospace;
+  font-size: 18px;
+  line-height: 1.5;
+  background: #212121;
+  color: white;
+}
+
+*:focus {
+  outline-color: #0d47a1;
+  outline-width: 2px;
+  outline-offset: 2px;
+}
